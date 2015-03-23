@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvTopText">Небо</string>
+    <string name="btnTopText">Синій</string>
+    <string name="tvBottomText">Пшеничне колосся</string>
+    <string name="btnBottomText">Жовтий</string>
+    <color name="llTopColor">#0082D1</color>
+    <color name="llBottomColor">#FFD100</color>
+</resources>
